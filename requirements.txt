@@ -1,6 +1,6 @@
 langchain
 langchain-community
-azure-ai-documentintelligence
+# azure-ai-documentintelligence
 unstructured
 python-magic
 python-pptx
